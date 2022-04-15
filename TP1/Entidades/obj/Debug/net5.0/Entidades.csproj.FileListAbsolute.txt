@@ -1,0 +1,24 @@
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\TP1\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\Nueva carpeta\probando\MiCalculadora\Entidades\obj\Debug\net5.0\Entidades.pdb
