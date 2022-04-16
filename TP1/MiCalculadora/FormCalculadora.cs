@@ -133,19 +133,19 @@ namespace MiCalculadora
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         { 
             if((bool)btnConvertirABinario.Tag)
-            {                
-                StringBuilder sb = new StringBuilder();
+            {
+                string resultadoDecimal = lblResultado.Text;                
 
-                if(double.TryParse(lblResultado.Text, out double resultado))
+                lblResultado.Text = new Operando().DecimalBinario(resultadoDecimal);
+
+                if(double.TryParse(resultadoDecimal, out double resultadoDecimalParseado) &&
+                   double.TryParse(lblResultado.Text, out double _))
                 {
-                    sb.AppendLine($"{(int)Math.Abs(resultado)}(d) = ");
-                }
+                    StringBuilder sb = new StringBuilder();
 
-                lblResultado.Text = new Operando().DecimalBinario(lblResultado.Text);
-
-                if(double.TryParse(lblResultado.Text, out double _))
-                {
+                    sb.AppendLine($"{(int)Math.Abs(resultadoDecimalParseado)}(d) = ");
                     sb.Append($"{lblResultado.Text}(b)");
+
                     lstOperaciones.Items.Add(sb.ToString());
                 }
             }
@@ -162,15 +162,17 @@ namespace MiCalculadora
         {         
             if((bool)btnConvertirADecimal.Tag)
             {
-                StringBuilder sb = new StringBuilder();
+                string resultadoBinario = lblResultado.Text;
 
-                sb.AppendLine($"{lblResultado.Text}(b) = ");
-
-                lblResultado.Text = new Operando().BinarioDecimal(lblResultado.Text);
+                lblResultado.Text = new Operando().BinarioDecimal(resultadoBinario);  
 
                 if(double.TryParse(lblResultado.Text, out double numeroDecimal))
                 {
+                    StringBuilder sb = new StringBuilder();
+
+                    sb.AppendLine($"{resultadoBinario}(b) = ");
                     sb.Append($"{numeroDecimal}(d)");
+
                     lstOperaciones.Items.Add(sb.ToString());
                 }
             }
