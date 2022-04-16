@@ -10,9 +10,6 @@ namespace Entidades
     {
         private double numero;
 
-        /// <summary>
-        /// Setea el atributo 'numero'
-        /// </summary>
         private string Numero
         {
             set
@@ -47,7 +44,6 @@ namespace Entidades
             this.Numero = numero;
         }
 
-        #region Conversiones y Validaciones
         /// <summary>
         /// Valida un operando de tipo string, devolviendo el mismo en tipo double o 0 en caso de error.
         /// </summary>
@@ -55,8 +51,8 @@ namespace Entidades
         /// <returns>Retorna la cadena convertida a double, o 0 en caso de error.</returns>
         private double ValidarOperando(string strNumero)
         {
-            double.TryParse(strNumero, out double numero);
-
+            bool _ = double.TryParse(strNumero, out double numero);
+           
             return numero;
         }
 
@@ -67,7 +63,7 @@ namespace Entidades
         /// <returns>True si la cadena representa un binario, caso contrario False.</returns>
         private bool EsBinario(string binario)
         {
-            bool retorno = string.IsNullOrEmpty(binario)? false : true;
+            bool retorno = !string.IsNullOrEmpty(binario);
 
             for (int i = 0; i < binario.Length; i++)
             {
@@ -89,12 +85,11 @@ namespace Entidades
         {
             string retorno = "Valor inválido";
             StringBuilder resto = new StringBuilder();
-            int numeroEntero = (int)Math.Round(Math.Abs(numero));
+            int numeroEntero = (int)Math.Abs(numero);
 
             do
             {
                 resto.Append(numeroEntero % 2);
-
             } while ((numeroEntero /= 2) > 1);
 
             resto.Append(numeroEntero);
@@ -153,9 +148,7 @@ namespace Entidades
             }
             return retorno;
         }
-        #endregion
 
-        #region Sobrecarga De Operadores
         /// <summary>
         /// Sobrecarga de la Suma entre elementos de tipo 'Operando'
         /// </summary>
@@ -164,7 +157,13 @@ namespace Entidades
         /// <returns>Un double, resultado de sumar A y B</returns>
         public static double operator +(Operando n1, Operando n2)
         {
-            return n1.numero + n2.numero;
+            double retorno = 0;
+
+            if(n1 is not null && n2 is not null)
+            {
+                retorno = n1.numero + n2.numero;
+            }
+            return retorno;
         }
 
         /// <summary>
@@ -175,7 +174,13 @@ namespace Entidades
         /// <returns>un Double, resultado de restar A y B</returns>
         public static double operator -(Operando n1, Operando n2)
         {
-            return n1.numero - n2.numero;
+            double retorno = 0;
+            
+            if(n1 is not null && n2 is not null)
+            {
+                retorno = n1.numero - n2.numero;
+            }
+            return retorno;
         }
 
         /// <summary>
@@ -186,7 +191,13 @@ namespace Entidades
         /// <returns>un Double, resultado de multiplicar A y B</returns>
         public static double operator *(Operando n1, Operando n2)
         {
-            return n1.numero * n2.numero;
+            double retorno = 0;
+
+            if(n1 is not null && n2 is not null)
+            {
+                retorno = n1.numero * n2.numero;
+            }
+            return retorno;
         }
 
         /// <summary>
@@ -199,13 +210,11 @@ namespace Entidades
         {
             double retorno = double.MinValue;
 
-            if (n2.numero != 0)
+            if (n1 is not null && n2 is not null && n2.numero != 0)
             {
                 retorno = n1.numero / n2.numero;
             }
-
             return retorno;
         }
-        #endregion
     }
 }

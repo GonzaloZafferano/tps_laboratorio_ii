@@ -96,8 +96,8 @@ namespace MiCalculadora
         /// <returns>Un double, resultado de haber operado con los Operandos A y B.</returns>
         private static double Operar(string numero1, string numero2, string operador)
         {
-            //char.TryParse: Si la cadena esta vacia, asignara un '\0'
-            char.TryParse(operador, out char operacionAritmetica);
+            //Metodo char.TryParse: Si la cadena esta vacia, asignara el caracter '\0'.
+            bool _ = char.TryParse(operador, out char operacionAritmetica);
 
             return Calculadora.Operar(new Operando(numero1), new Operando(numero2), operacionAritmetica);
         }
@@ -111,10 +111,11 @@ namespace MiCalculadora
         {
             double resultado = FormCalculadora.Operar(txtNumero1.Text, txtNumero2.Text, cmbOperador.Text);
 
-            lblResultado.Text = resultado == double.MinValue ? "Error Matemático" : resultado.ToString();
+            lblResultado.Text = resultado == double.MinValue ? "Error Matemático" : Math.Round(resultado,4).ToString();
 
-            double.TryParse(txtNumero1.Text, out double numeroA);
-            double.TryParse(txtNumero2.Text, out double numeroB);
+            bool _ = double.TryParse(txtNumero1.Text, out double numeroA);
+            _ = double.TryParse(txtNumero2.Text, out double numeroB);
+
             char operadorAritmetico = string.IsNullOrEmpty(cmbOperador.Text) ? '+' : cmbOperador.Text[0];
             
             string operacionRealizada = string.Format("{0} {1} {2} = {3}", numeroA, operadorAritmetico, numeroB, lblResultado.Text);
@@ -132,8 +133,21 @@ namespace MiCalculadora
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         { 
             if((bool)btnConvertirABinario.Tag)
-            {
+            {                
+                StringBuilder sb = new StringBuilder();
+
+                if(double.TryParse(lblResultado.Text, out double resultado))
+                {
+                    sb.AppendLine($"{(int)Math.Abs(resultado)}(d) = ");
+                }
+
                 lblResultado.Text = new Operando().DecimalBinario(lblResultado.Text);
+
+                if(double.TryParse(lblResultado.Text, out double _))
+                {
+                    sb.Append($"{lblResultado.Text}(b)");
+                    lstOperaciones.Items.Add(sb.ToString());
+                }
             }
             btnConvertirADecimal.Tag = true;                   
             btnConvertirABinario.Tag = false;
@@ -145,10 +159,20 @@ namespace MiCalculadora
         /// <param name="sender">Objeto que dispara el evento.</param>
         /// <param name="e">Objeto que contiene informacion del evento.</param>
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
-        {
+        {         
             if((bool)btnConvertirADecimal.Tag)
             {
-                lblResultado.Text =  new Operando().BinarioDecimal(lblResultado.Text);           
+                StringBuilder sb = new StringBuilder();
+
+                sb.AppendLine($"{lblResultado.Text}(b) = ");
+
+                lblResultado.Text = new Operando().BinarioDecimal(lblResultado.Text);
+
+                if(double.TryParse(lblResultado.Text, out double numeroDecimal))
+                {
+                    sb.Append($"{numeroDecimal}(d)");
+                    lstOperaciones.Items.Add(sb.ToString());
+                }
             }
             btnConvertirABinario.Tag = true;
             btnConvertirADecimal.Tag = false;  

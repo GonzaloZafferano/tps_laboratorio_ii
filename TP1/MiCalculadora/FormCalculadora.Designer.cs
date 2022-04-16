@@ -141,14 +141,14 @@ namespace MiCalculadora
             this.lstOperaciones.ItemHeight = 23;
             this.lstOperaciones.Location = new System.Drawing.Point(513, 12);
             this.lstOperaciones.Name = "lstOperaciones";
-            this.lstOperaciones.Size = new System.Drawing.Size(233, 280);
+            this.lstOperaciones.Size = new System.Drawing.Size(444, 280);
             this.lstOperaciones.TabIndex = 9;
             // 
             // FormCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(755, 303);
+            this.ClientSize = new System.Drawing.Size(969, 303);
             this.Controls.Add(this.lstOperaciones);
             this.Controls.Add(this.cmbOperador);
             this.Controls.Add(this.lblResultado);
