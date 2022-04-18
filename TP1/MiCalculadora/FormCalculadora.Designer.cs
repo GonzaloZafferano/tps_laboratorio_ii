@@ -120,7 +120,7 @@ namespace MiCalculadora
             this.lblResultado.Location = new System.Drawing.Point(29, 12);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(460, 38);
-            this.lblResultado.TabIndex = 7;
+            this.lblResultado.TabIndex = 8;
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // cmbOperador
@@ -142,7 +142,8 @@ namespace MiCalculadora
             this.lstOperaciones.Location = new System.Drawing.Point(513, 12);
             this.lstOperaciones.Name = "lstOperaciones";
             this.lstOperaciones.Size = new System.Drawing.Size(444, 280);
-            this.lstOperaciones.TabIndex = 9;
+            this.lstOperaciones.TabIndex = 8;
+            this.lstOperaciones.TabStop = false;
             // 
             // FormCalculadora
             // 

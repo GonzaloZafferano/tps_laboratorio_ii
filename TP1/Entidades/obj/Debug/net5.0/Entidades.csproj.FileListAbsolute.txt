@@ -46,3 +46,14 @@ C:\Users\GONZALO\Desktop\Nueva carpeta (2)\tps_laboratorio_ii\TP1\Entidades\obj\
 C:\Users\GONZALO\Desktop\Nueva carpeta (2)\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.dll
 C:\Users\GONZALO\Desktop\Nueva carpeta (2)\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
 C:\Users\GONZALO\Desktop\Nueva carpeta (2)\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\Ultimop push\tps_laboratorio_ii\TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
