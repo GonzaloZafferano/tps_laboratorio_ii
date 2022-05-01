@@ -21,6 +21,10 @@ namespace Entidades
             Chico, Mediano, Grande
         };
 
+        private EMarca marca;
+        private string chasis;
+        private ConsoleColor color;
+
         /// <summary>
         /// Constructor de la clase Vehiculo
         /// </summary>
@@ -34,9 +38,6 @@ namespace Entidades
             this.color = color;
         }
 
-        private EMarca marca;
-        private string chasis;
-        private ConsoleColor color;
 
         /// <summary>
         /// ReadOnly: Retornará el tamaño
