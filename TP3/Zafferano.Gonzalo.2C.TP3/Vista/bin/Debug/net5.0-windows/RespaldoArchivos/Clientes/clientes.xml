@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cliente>
+    <Dni>20159753</Dni>
+    <Nombre>Martin</Nombre>
+    <Apellido>Palermo</Apellido>
+    <Telefono>15-9876-1234</Telefono>
+  </Cliente>
+  <Cliente>
+    <Dni>38123951</Dni>
+    <Nombre>Marina</Nombre>
+    <Apellido>Gutierrez</Apellido>
+    <Telefono>15-3216-7951</Telefono>
+  </Cliente>
+  <Cliente>
+    <Dni>17132987</Dni>
+    <Nombre>Graciela</Nombre>
+    <Apellido>Vazquez</Apellido>
+    <Telefono>11-1239-7896</Telefono>
+  </Cliente>
+  <Cliente>
+    <Dni>35888412</Dni>
+    <Nombre>Daniela</Nombre>
+    <Apellido>Rodriguez</Apellido>
+    <Telefono>15-9876-1478</Telefono>
+  </Cliente>
+  <Cliente>
+    <Dni>33142371</Dni>
+    <Nombre>Lucia</Nombre>
+    <Apellido>Arrieta</Apellido>
+    <Telefono>11-9536-3547</Telefono>
+  </Cliente>
+</ArrayOfCliente>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmpleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Empleado xsi:type="Jefe">
+    <Dni>12345678</Dni>
+    <Nombre>Veronica</Nombre>
+    <Apellido>Gomez</Apellido>
+    <Salario>77000</Salario>
+    <NombreUsuario>Vero1990</NombreUsuario>
+    <Id>1</Id>
+    <Puesto>Jefe</Puesto>
+  </Empleado>
+  <Empleado xsi:type="Administrador">
+    <Dni>35321498</Dni>
+    <Nombre>Gonzalo</Nombre>
+    <Apellido>Zamora</Apellido>
+    <Salario>45000</Salario>
+    <NombreUsuario>Gonza92</NombreUsuario>
+    <Id>2</Id>
+    <Puesto>Administrador</Puesto>
+  </Empleado>
+  <Empleado>
+    <Dni>41098765</Dni>
+    <Nombre>Mariana</Nombre>
+    <Apellido>Barrios</Apellido>
+    <Salario>35000</Salario>
+    <NombreUsuario>Mari99</NombreUsuario>
+    <Id>3</Id>
+    <Puesto>Empleado</Puesto>
+  </Empleado>
+  <Empleado xsi:type="Administrador">
+    <Dni>32159732</Dni>
+    <Nombre>Solange</Nombre>
+    <Apellido>Lucas</Apellido>
+    <Salario>42000</Salario>
+    <NombreUsuario>Sol90</NombreUsuario>
+    <Id>4</Id>
+    <Puesto>Administrador</Puesto>
+  </Empleado>
+  <Empleado>
+    <Dni>27875123</Dni>
+    <Nombre>Fabian</Nombre>
+    <Apellido>Veraz</Apellido>
+    <Salario>46000</Salario>
+    <NombreUsuario>Fabi84</NombreUsuario>
+    <Id>5</Id>
+    <Puesto>Empleado</Puesto>
+  </Empleado>
+  <Empleado>
+    <Dni>19123476</Dni>
+    <Nombre>Marcos</Nombre>
+    <Apellido>Luna</Apellido>
+    <Salario>51200.33</Salario>
+    <NombreUsuario>Mluna</NombreUsuario>
+    <Id>6</Id>
+    <Puesto>Empleado</Puesto>
+  </Empleado>
+  <Empleado>
+    <Dni>31546789</Dni>
+    <Nombre>Melina</Nombre>
+    <Apellido>Gimenez</Apellido>
+    <Salario>29000</Salario>
+    <NombreUsuario>Mgimenez</NombreUsuario>
+    <Id>7</Id>
+    <Puesto>Empleado</Puesto>
+  </Empleado>
+  <Empleado>
+    <Dni>29754321</Dni>
+    <Nombre>Barbara</Nombre>
+    <Apellido>Pratz</Apellido>
+    <Salario>33120.3</Salario>
+    <NombreUsuario>Barbara8</NombreUsuario>
+    <Id>9</Id>
+    <Puesto>Empleado</Puesto>
+  </Empleado>
+</ArrayOfEmpleado>

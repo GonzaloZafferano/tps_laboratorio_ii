@@ -1,0 +1,16 @@
+ID Compra: 15
+ID Usuario que brindo Atencion: 3
+Cliente: Cliente Eventual
+Dni Cliente: 1000000
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $60,00
+<----Productos en carrito---->
+1) Folletos. Id Producto: 1
+Nombre Producto: Folletos
+Descripcion: Impresion de Folletos.
+Precio Base: $20,00
+Color: SI
+Detalles adicionales: -
+($20,00 x 3 unidades = $60,00)

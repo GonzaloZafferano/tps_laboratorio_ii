@@ -1,0 +1,23 @@
+ID Compra: 18
+ID Usuario que brindo Atencion: 9
+Cliente: Gutierrez, Marina
+Dni Cliente: 38123951
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $1.915,00
+<----Productos en carrito---->
+1) Tarjeta. Id Producto: 4
+Nombre Producto: Tarjeta
+Descripcion: Tarjetas personales.
+Precio Base: $15,00
+Color: NO
+Detalles adicionales: -
+($15,00 x 1 unidades = $15,00)
+2) Banner. Id Producto: 3
+Nombre Producto: Banner
+Descripcion: Diseño personalizado de banner.
+Precio Base: $1.900,00
+Tamaño: Chico
+Detalles adicionales: -
+($1.900,00 x 1 unidades = $1.900,00)

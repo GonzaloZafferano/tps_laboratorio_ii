@@ -1,0 +1,16 @@
+ID Compra: 7
+ID Usuario que brindo Atencion: 4
+Cliente: Arrieta, Lucia
+Dni Cliente: 33142371
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $1400,00
+<----Productos en carrito---->
+1) Fotos Polaroid. Id Producto: 5
+Nombre Producto: Fotos Polaroid
+Descripcion: Impresion de Fotos polariod.
+Precio Base: $200,00
+Color: NO
+Detalles adicionales: -
+($200,00 x 7 unidades = $1400,00)

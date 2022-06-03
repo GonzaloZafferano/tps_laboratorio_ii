@@ -1,0 +1,16 @@
+ID Compra: 10
+ID Usuario que brindo Atencion: 5
+Cliente: Vazquez, Graciela
+Dni Cliente: 17132987
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Efectivo
+Descuento aplicado: 0%
+Precio Total de la Compra: $10,00
+<----Productos en carrito---->
+1) Folletos. Id Producto: 1
+Nombre Producto: Folletos
+Descripcion: Impresion de Folletos.
+Precio Base: $10,00
+Color: NO
+Detalles adicionales: -
+($10,00 x 1 unidades = $10,00)

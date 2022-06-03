@@ -1,0 +1,114 @@
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmAdministrador.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmAltaCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmAltaProducto.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmAltaUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmComprar.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmConfirmarCompra.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmGestionClientes.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmGestionProductos.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmGestionUsuarios.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmJefe.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmListaClientes.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmLogin.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmModificarCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmModificarProducto.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmModificarUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmTicketsDeCompra.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.FrmUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\WinFormsApp2\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmAdministrador.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmAltaCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmAltaProducto.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmAltaUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmComprar.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmConfirmarCompra.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmGestionClientes.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmGestionProductos.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmGestionUsuarios.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmJefe.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmListaClientes.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmLogin.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmModificarCliente.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmModificarProducto.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmModificarUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmTicketsDeCompra.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmUsuario.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmAdministrador.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmAltaCliente.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmAltaProducto.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmAltaUsuario.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmComprar.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmConfirmarCompra.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmGestionClientes.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmGestionProductos.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmGestionUsuarios.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmJefe.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmListaClientes.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmLogin.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmModificarCliente.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmModificarProducto.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmModificarUsuario.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmTicketsDeCompra.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.FrmUsuario.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache

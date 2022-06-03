@@ -1,0 +1,16 @@
+ID Compra: 9
+ID Usuario que brindo Atencion: 5
+Cliente: Arrieta, Lucia
+Dni Cliente: 33142371
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $840,00
+<----Productos en carrito---->
+1) Tarjeta. Id Producto: 4
+Nombre Producto: Tarjeta
+Descripcion: Tarjetas personales.
+Precio Base: $15,00
+Color: NO
+Detalles adicionales: -
+($15,00 x 56 unidades = $840,00)

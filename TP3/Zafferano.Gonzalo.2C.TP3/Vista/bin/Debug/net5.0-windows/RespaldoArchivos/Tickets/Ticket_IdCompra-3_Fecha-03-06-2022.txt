@@ -1,0 +1,16 @@
+ID Compra: 3
+ID Usuario que brindo Atencion: 3
+Cliente: Gutierrez, Marina
+Dni Cliente: 38123951
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $1500,00
+<----Productos en carrito---->
+1) Tarjeta. Id Producto: 4
+Nombre Producto: Tarjeta
+Descripcion: Tarjetas personales.
+Precio Base: $15,00
+Color: NO
+Detalles adicionales: Tarjetas para estudio de abogados. Que incluya el nombre y telefono del personal.
+($15,00 x 100 unidades = $1500,00)

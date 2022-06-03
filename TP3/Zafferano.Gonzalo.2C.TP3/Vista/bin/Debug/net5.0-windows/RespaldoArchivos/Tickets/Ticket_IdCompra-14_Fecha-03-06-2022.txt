@@ -1,0 +1,16 @@
+ID Compra: 14
+ID Usuario que brindo Atencion: 4
+Cliente: Cliente Eventual
+Dni Cliente: 1000000
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $1900,00
+<----Productos en carrito---->
+1) Banner. Id Producto: 3
+Nombre Producto: Banner
+Descripcion: Diseño personalizado de banner.
+Precio Base: $1900,00
+Tamaño: Chico
+Detalles adicionales: -
+($1900,00 x 1 unidades = $1900,00)

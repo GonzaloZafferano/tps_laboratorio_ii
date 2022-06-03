@@ -1,0 +1,23 @@
+ID Compra: 2
+ID Usuario que brindo Atencion: 3
+Cliente: Vazquez, Graciela
+Dni Cliente: 17132987
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $5600,00
+<----Productos en carrito---->
+1) Logo. Id Producto: 2
+Nombre Producto: Logo
+Descripcion: Diseño Personalizado de Logo.
+Precio Base: $3600,00
+Tamaño: Grande
+Detalles adicionales: Logo para la empresa. Necesita el tamaño grande ya que lo van a utilizar en carteles.
+($3600,00 x 1 unidades = $3600,00)
+2) Folletos. Id Producto: 1
+Nombre Producto: Folletos
+Descripcion: Impresion de Folletos.
+Precio Base: $20,00
+Color: SI
+Detalles adicionales: Folletos a color para promocionar la obra. Que incluya los nombres de los artistas abajo y el titulo con letras extravagantes.
+($20,00 x 100 unidades = $2000,00)

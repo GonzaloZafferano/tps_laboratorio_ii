@@ -1,0 +1,16 @@
+ID Compra: 5
+ID Usuario que brindo Atencion: 4
+Cliente: Palermo, Martin
+Dni Cliente: 20159753
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $39200,00
+<----Productos en carrito---->
+1) Fotos Polaroid. Id Producto: 5
+Nombre Producto: Fotos Polaroid
+Descripcion: Impresion de Fotos polariod.
+Precio Base: $400,00
+Color: SI
+Detalles adicionales: -
+($400,00 x 98 unidades = $39200,00)

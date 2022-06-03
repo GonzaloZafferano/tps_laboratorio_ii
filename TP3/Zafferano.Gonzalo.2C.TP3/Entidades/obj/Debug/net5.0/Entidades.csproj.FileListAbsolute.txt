@@ -1,0 +1,60 @@
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\source\repos\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\WinFormsApp2\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\EL TP 3 MEJOR ARMADO DEL PLANETA HUMAN3O\EL TP 3 MEJOR ARMADO DEL PLANETA HUMANO\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\GONZALO\Desktop\bajada tp\probando\Zafferano.Gonzalo.2C.TP3\Entidades\obj\Debug\net5.0\Entidades.pdb

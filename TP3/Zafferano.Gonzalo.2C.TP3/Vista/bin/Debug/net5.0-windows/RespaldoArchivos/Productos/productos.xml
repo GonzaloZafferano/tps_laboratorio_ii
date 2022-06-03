@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProducto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Producto xsi:type="Impresion">
+    <IdProducto>1</IdProducto>
+    <NombreProducto>Folletos</NombreProducto>
+    <DescripcionProducto>Impresion de Folletos.</DescripcionProducto>
+    <PrecioProducto>10</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Disenio">
+    <IdProducto>2</IdProducto>
+    <NombreProducto>Logo</NombreProducto>
+    <DescripcionProducto>Diseño Personalizado de Logo.</DescripcionProducto>
+    <PrecioProducto>1200</PrecioProducto>
+    <TamanioDisenio>Chico</TamanioDisenio>
+  </Producto>
+  <Producto xsi:type="Disenio">
+    <IdProducto>3</IdProducto>
+    <NombreProducto>Banner</NombreProducto>
+    <DescripcionProducto>Diseño personalizado de banner.</DescripcionProducto>
+    <PrecioProducto>1900</PrecioProducto>
+    <TamanioDisenio>Chico</TamanioDisenio>
+  </Producto>
+  <Producto xsi:type="Impresion">
+    <IdProducto>4</IdProducto>
+    <NombreProducto>Tarjeta</NombreProducto>
+    <DescripcionProducto>Tarjetas personales.</DescripcionProducto>
+    <PrecioProducto>15</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Impresion">
+    <IdProducto>5</IdProducto>
+    <NombreProducto>Fotos Polaroid</NombreProducto>
+    <DescripcionProducto>Impresion de Fotos polariod.</DescripcionProducto>
+    <PrecioProducto>200</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Disenio">
+    <IdProducto>6</IdProducto>
+    <NombreProducto>Cartel</NombreProducto>
+    <DescripcionProducto>Diseño de cartel.</DescripcionProducto>
+    <PrecioProducto>3100</PrecioProducto>
+    <TamanioDisenio>Chico</TamanioDisenio>
+  </Producto>
+  <Producto xsi:type="Impresion">
+    <IdProducto>7</IdProducto>
+    <NombreProducto>Hoja A4</NombreProducto>
+    <DescripcionProducto>Impresion de hoja A4.</DescripcionProducto>
+    <PrecioProducto>5</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Impresion">
+    <IdProducto>8</IdProducto>
+    <NombreProducto>Hoja Oficio</NombreProducto>
+    <DescripcionProducto>Impresion de hoja Oficio.</DescripcionProducto>
+    <PrecioProducto>5</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+  <Producto xsi:type="Impresion">
+    <IdProducto>10</IdProducto>
+    <NombreProducto>Carta</NombreProducto>
+    <DescripcionProducto>Impresion en tamaño Carta.</DescripcionProducto>
+    <PrecioProducto>6</PrecioProducto>
+    <TieneColor>false</TieneColor>
+  </Producto>
+</ArrayOfProducto>

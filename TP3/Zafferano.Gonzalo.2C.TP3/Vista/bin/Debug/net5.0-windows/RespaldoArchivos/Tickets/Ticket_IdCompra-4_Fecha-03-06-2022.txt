@@ -1,0 +1,16 @@
+ID Compra: 4
+ID Usuario que brindo Atencion: 2
+Cliente: Rodriguez, Daniela
+Dni Cliente: 35888412
+Fecha de compra: 03/06/2022
+Medio de pago utilizado: Tarjeta_Debito
+Descuento aplicado: 0%
+Precio Total de la Compra: $9300,00
+<----Productos en carrito---->
+1) Cartel. Id Producto: 6
+Nombre Producto: Cartel
+Descripcion: Diseño de cartel.
+Precio Base: $9300,00
+Tamaño: Grande
+Detalles adicionales: Cartel grande, con diseño de tortas. Que se vea principalmente el color rosa y blanco.
+($9300,00 x 1 unidades = $9300,00)
